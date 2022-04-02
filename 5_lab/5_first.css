@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+   
+}
+.main{
+    
+    margin-left: 20px;
+    text-align: center;
+}
+.form{
+    background-color: brown;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+.lable1{
+   
+    left: 200px;
+    padding:0 22px;
+   
+    width: 125px;
+    font-weight: 700;
+}
